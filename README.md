@@ -1,24 +1,33 @@
-# Comitê de Políticas Digitais
-Repositório para documentar o processo de elaboração, discussão e implementação do **Comitê Estadual de Políticas Digitais e Gestão da Informação** do Sistema Estaudla de Saúde do Ceará.
+# Comitê de Políticas Digitais e Gestão de Informações
+Repositório para documentar o processo de elaboração, discussão e implementação do **Comitê Políticas Digitais e Gestão da Informação da Escola de Saúde Pública do Ceará**.
 
 
 ## Apresentação
-[Apresentação](bit.ly/PoliticasDigitaisNaSaude) dos conceitos e princípios que fundamentam a demanda pela criação de um Comitê responsável pela implementação de um **Programa de Transformação Digital** no Sistema de Saúde do Ceará.
+[Apresentação](http://bit.ly/PoliticasDigitaisNaSaude) dos conceitos e princípios que fundamentam a demanda pela criação de um Comitê responsável pela implementação de um **Programa de Transformação Digital** no Sistema de Saúde do Ceará.
 
 - http://bit.ly/PoliticasDigitaisNaSaude
 
 
 ### Portaria
-Será editada [Portaria da Secretaria da Saúde](https://github.com/SaudeCE/ComiteDePoliticasDigitais/blob/master/PortariaDeCriacaoDoComite.md), criando um **Comitê de Políticas Digitais e Gestão da Informação**, responsável pela implementação de uma Política Digital para o Sistema de Saúde.
+Será editada [Portaria do Superintendente](PortariaDeCriacaoDoComite.md), criando um **Comitê de Políticas Digitais e Gestão de Informações**, responsável pela implementação de uma Política Digital para a **Escola de Saúde Pública do Ceará**.
 
-- [Acompanhe](https://github.com/SaudeCE/ComiteDePoliticasDigitais/issues/2) a elaboração: http://bit.ly/PortariaCriacaoComiteDigital
-
-## Programa de Transformação Digital
-O comitê será responsável por um programa de Transformação que vai ajudar a estruturar a implementação e adoção de tecnologias inovadoras para a Saúde.
+- [Acompanhe](https://github.com/EscolaDeSaudePublica/ComiteDePoliticasDigitais/issues/1) a elaboração: http://bit.ly/PortariaCriacaoComiteDigitalESP
 
 
-# Política Estadual de Gestão da Informacão
+# Programa de Transformação Digital
+A proposta é que o comitê seja responsável pelo programa de **Transformação** que vai ajudar a estruturar o processo de mudança necessário para a implementação e adoção de tecnologias e metodologias necessárias para que a Escola assuma o papel de Centro de Inteligência do Sistema de Saúde do Ceará.
 
-Caberá ao comitê "Elaborar e aprovar a Política Estadual de Gestão da Informacão, compreendendo a adequação à Política Nacional de Segurança da Informação, à Lei Geral de Proteção de Dados Pessoais e à Política Nacional de Informação e Informática em Saúde.
+## Política de Adoção e Desenvolvimento de Tecnologias
 
-- Acompanhe o [KabBan](https://github.com/orgs/SaudeCE/projects/12) da [Política Estadual de Gestão da Informacão](https://github.com/SaudeCE/ComiteDePoliticasDigitais/blob/master/PoliticaEstadualDeGestaoDaInformacao.md)
+Caberá ao comitê acompanhar e desenvolver as Políticas de Tecnologia da Informação, além de outras tecnologias, inovadoras ou não, a serem implementadas pela escola.
+
+- Planejamento Estratégico de Tecnologia da Informação e Comunicação
+- Plano Diretor de Tecnologia da Informação
+
+## Política Estadual de Gestão da Informacão
+
+Caberá ao comitê "Elaborar e aprovar a Política Gestão de Informacões" com o intuito de padronizar e integrar dados, sistemas e plataformas do Ecosistema de Saúde Digital.
+
+- Acompanhe a [demanda](https://github.com/EscolaDeSaudePublica/ComiteDePoliticasDigitais/issues/3)
+
+- Participe da elaboração da [Política de Gestão da Informacão](PoliticaEstadualDeGestaoDaInformacao.md) da Escola de Saúde Publica do Ceará
