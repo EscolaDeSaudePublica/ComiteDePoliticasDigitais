@@ -9,7 +9,7 @@ CONSIDERANDO a necessidade de adequação dos fluxos, protocolos e prioridades d
 
 CONSIDERANDO a necessidade de __integração/adequação__ do Sistema Estadual de Saúde à [**Política Nacional de Informação e Informática em Saúde**](https://www.conasems.org.br/wp-content/uploads/2019/02/politica_nacional_infor_informatica_saude_2016.pdf), à Estratégia de Saúde Digital para o Brasil ([e-Saúde/digiSUS](http://www.saude.gov.br/acoes-e-programas/digisus/)) e ao [Plano Diretor de Tecnologia da Informação e Comunicação](http://datasus.saude.gov.br/images/comunicacao/PDTIC24072019FINAL.pdf) do Ministério da Saúde;
 
-CONSIDERANDO os desafios de governança impostos pela sobreposição de atribuições e sistemas, agravados pelo convergência inerente à digitalização dos sistemas e serviços públicos e privados, assim como as oportunidades de otimização de recursos, automação de processos e integração de informações;
+CONSIDERANDO os desafios de governança impostos pela sobreposição de atribuições e sistemas, agravados pela convergência inerente à digitalização dos sistemas e serviços públicos e privados, assim como as oportunidades de otimização de recursos, automação de processos e integração de informações;
 
 CONSIDERANDO o novo mapa estratégico da ESP-CE, que a reposiciona como Centro de Inteligência do Sistema Estadual de Saúde, conectando desde o autocuidado e qualificação do atendimento ao cidadão, até o dimensionamento e formação da força de trabalho;
 
