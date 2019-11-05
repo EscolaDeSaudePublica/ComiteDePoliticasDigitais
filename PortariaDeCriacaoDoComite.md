@@ -28,13 +28,13 @@ resolve:
 I - Três representantes da Superintendência:
   - o titular ou seu substituto, que coordenará as atividades;
   - dois representantes da Assessoria da Superintendência;
+
+II - Cinco representantes das Diretorias e Órgão de Assessoramento
+  - um representantes da DIRETORIA DE PÓS GRADUAÇÃO - EM SAÚDE;
+  - um representantes da DIRETORIA DE EDUCAÇÃO PROFISSIONAL EM SAÚDE;
+  - um representante da DIRETORIA ADMINISTRATIVOFINANCEIRA;
   - um representante da Procuradoria Jurídica;
   - um representante da Assessoria de Desenvolvimento Institucional (ADINS)
-
-II - Quatro representantes das Diretorias
-  - dois representantes da DIRETORIA DE PÓS GRADUAÇÃO - EM SAÚDE;
-  - dois representantes da DIRETORIA DE EDUCAÇÃO PROFISSIONAL EM SAÚDE;
-  - um representante da DIRETORIA ADMINISTRATIVOFINANCEIRA;
 
 III - Três representantes do NUTIC:
   - Coordenadora;
