@@ -29,7 +29,7 @@ I - Três representantes da Superintendência:
   - o titular ou seu substituto, que coordenará as atividades;
   - dois representantes da Assessoria da Superintendência;
 
-II - Cinco representantes das Diretorias e Órgão de Assessoramento
+II - Cinco representantes das Diretorias e Órgãos de Assessoramento
   - um representantes da DIRETORIA DE PÓS GRADUAÇÃO - EM SAÚDE;
   - um representantes da DIRETORIA DE EDUCAÇÃO PROFISSIONAL EM SAÚDE;
   - um representante da DIRETORIA ADMINISTRATIVOFINANCEIRA;
