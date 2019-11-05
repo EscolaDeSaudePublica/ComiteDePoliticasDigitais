@@ -30,9 +30,9 @@ I - Três representantes da Superintendência:
   - dois representantes da Assessoria da Superintendência;
 
 II - Cinco representantes das Diretorias e Órgãos de Assessoramento
-  - um representantes da DIRETORIA DE PÓS GRADUAÇÃO - EM SAÚDE;
+  - um representantes da DIRETORIA DE PÓS GRADUAÇÃO EM SAÚDE;
   - um representantes da DIRETORIA DE EDUCAÇÃO PROFISSIONAL EM SAÚDE;
-  - um representante da DIRETORIA ADMINISTRATIVOFINANCEIRA;
+  - um representante da DIRETORIA ADMINISTRATIVO-FINANCEIRA;
   - um representante da Procuradoria Jurídica;
   - um representante da Assessoria de Desenvolvimento Institucional (ADINS)
 
@@ -98,13 +98,13 @@ funcionamento;
 
 VII - priorizar os projetos e as demandas de Tecnologia da Informação e Comunicação, em consonância com as Diretrizes de Serviço Digital e o PDTIC;
 
-VI - priorizar a alocação dos recursos orçamentários destinados à Tecnologia e à Comunicação, bem como as alterações posteriores que provoquem impacto significativo sobre a alocação inicial; e
+VIII - priorizar a alocação dos recursos orçamentários destinados à Tecnologia e à Comunicação, bem como as alterações posteriores que provoquem impacto significativo sobre a alocação inicial; e
 
-VII - monitorar e avaliar o desempenho das Políticas Digitais, o cumprimento das diretrizes e o alcance dos objetivos e
+IX - monitorar e avaliar o desempenho das Políticas Digitais, o cumprimento das diretrizes e o alcance dos objetivos e
 metas definidas nos Planos, Políticas e Estratégias.
 
   § 1º O PETIC deve conter as visões estratégicas e os princípios que servirão de base ao PDTIC, devendo estar
-alinhado aos objetivos estratégicos estabelecidos no **Programa de Modernização da Saúde** e no **Programa Governo Digital**, assim como aos princípios e às diretrizes da Política Tecnologia da Informação e Comunicação do Governo do Estado do Ceará.
+alinhado aos objetivos estratégicos estabelecidos no **Programa de Modernização da Saúde** e no **Programa Governo Digital**, assim como aos princípios e às diretrizes da Política de Tecnologia da Informação e Comunicação do Governo do Estado do Ceará.
 
   § 2º A vigência do PETIC será de quatro anos, podendo ser revisto a qualquer tempo para inserir visões e
 princípios advindos de novas políticas de governo.
