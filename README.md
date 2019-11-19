@@ -3,7 +3,7 @@ Repositório para documentar o processo de elaboração, discussão e implementa
 
 
 ## Apresentação
-[Apresentação](http://bit.ly/PoliticasDigitaisNaSaude) dos conceitos e princípios que fundamentam a demanda pela criação de um Comitê responsável pela implementação de um **Programa de Transformação Digital** no Sistema de Saúde do Ceará.
+[Apresentação](http://bit.ly/PoliticasDigitaisNaSaude) dos conceitos e princípios que fundamentam a demanda pela criação de um Comitê responsável pela implementação de um **Programa de Transformação Digital** na Escola de Saúde Pública do Ceará.
 
 - http://bit.ly/PoliticasDigitaisNaSaude
 
@@ -15,7 +15,9 @@ Será editada [Portaria do Superintendente](PortariaDeCriacaoDoComite.md), crian
 
 
 # Programa de Transformação Digital
-A proposta é que o comitê seja responsável pelo programa de **Transformação** que vai ajudar a estruturar o processo de mudança necessário para a implementação e adoção de tecnologias e metodologias necessárias para que a Escola assuma o papel de Centro de Inteligência do Sistema de Saúde do Ceará.
+A proposta é que o comitê seja responsável pelo programa de **Transformação** que vai ajudar a estruturar o processo de mudança necessário para a implementação e adoção de tecnologias e metodologias necessárias para que a Escola assuma o papel de **Centro de Inteligência do Sistema de Saúde do Ceará**.
+
+- https://github.com/EscolaDeSaudePublica/TransformacaoDigital
 
 ## Política de Adoção e Desenvolvimento de Tecnologias
 
