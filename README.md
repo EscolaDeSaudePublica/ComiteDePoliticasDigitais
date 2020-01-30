@@ -33,3 +33,5 @@ Caberá ao comitê "Elaborar e aprovar a Política Gestão de Informacões" com 
 - Acompanhe a [demanda](https://github.com/EscolaDeSaudePublica/ComiteDePoliticasDigitais/issues/3)
 
 - Participe da elaboração da [Política de Gestão da Informacão](PoliticaEstadualDeGestaoDaInformacao.md) da Escola de Saúde Publica do Ceará
+
+## Links
