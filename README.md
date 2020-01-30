@@ -35,3 +35,5 @@ Caberá ao comitê "Elaborar e aprovar a Política Gestão de Informacões" com 
 - Participe da elaboração da [Política de Gestão da Informacão](PoliticaEstadualDeGestaoDaInformacao.md) da Escola de Saúde Publica do Ceará
 
 ## Links
+RESOLUÇÃO Nº 46, DE 29 DE AGOSTO DE 2019
+http://www.in.gov.br/web/dou/-/resolucao-n-46-de-29-de-agosto-de-2019-221309239
